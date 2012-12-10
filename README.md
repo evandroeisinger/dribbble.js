@@ -6,7 +6,15 @@ A simple pure javascript library created to help develop applications using Drib
 * Source: [https://github.com/evandroeisinger/dribbble](https://github.com/evandroeisinger/dribbble)
 * Homepage: [http://evandroeisinger.com/dribbble](http://evandroeisinger.com/dribbble)
 
-## Usage
+### Require
+
+``` js
+
+<script type="text/javascript" src="js/dribbble.js"></script>
+
+```
+
+### Usage
 
 ``` js
 
