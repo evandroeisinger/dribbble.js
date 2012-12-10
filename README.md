@@ -1,5 +1,4 @@
 Dribbble.js
-========
 
 A simple pure javascript library created to help develop applications using Dribbble API.
 
