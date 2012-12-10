@@ -9,9 +9,7 @@ A simple pure javascript library created to help develop applications using Drib
 ### Require
 
 ``` js
-
 <script type="text/javascript" src="js/dribbble.js"></script>
-
 ```
 
 ### Usage
