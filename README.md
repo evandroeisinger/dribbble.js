@@ -48,6 +48,8 @@ Dribbble.following( 'fguth', true, function( response ){
 
 ----
 
+### Methods
+
 <table>
   <tr>
     <td><strong>Method</strong></td>
@@ -106,9 +108,9 @@ Dribbble.following( 'fguth', true, function( response ){
   </tr>
 </table>
 
-#### Callback
+### Callback
 
-All methods Dribbble.js methods require a callback function.
+All methods require a callback function.
 
 ``` js
 
@@ -136,11 +138,11 @@ Dribbble.list( 'popular', callback, 10, 2 );
 
 ```
 
-## Browser Support
+### Browser Support
 
 All browsers (Firefox, Chrome, Safari, Opera, IE7+) should be supported. Please [open an issue](https://github.com/evandroeisinger/dribbble/issues) if Dribbble.js doesn't work on a particular browser.
 
-## Contributing
+### Contributing
 
 Anyone and everyone is welcome to [contribute](https://github.com/evandroeisinger/dribbble/fork).
 
